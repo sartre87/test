@@ -2,7 +2,6 @@
 /*
  File Name   : Games.php
  Date        : 3/15/2015
- Author      : Adam Lee Pero
  Description : 
   Manages the records within the Games Table.
 */
